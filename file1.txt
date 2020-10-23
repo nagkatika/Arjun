@@ -1,1 +1,6 @@
-my code
+<<<<<<< HEAD
+my code is not working
+
+=======
+it should be fast
+>>> prod
