@@ -2,5 +2,5 @@
 my code is not working
 
 =======
-it should be fast
+it should be fast and accurate.
 >>> prod
